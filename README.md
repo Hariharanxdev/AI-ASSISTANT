@@ -378,7 +378,7 @@ Logging helps with debugging, monitoring, and understanding application performa
 
 ### Role Switch to Normal Assistant
 
-![Role Switch](./screenshots/role-normal.png)
+![Role Switch to Normal Assistant](./screenshots/role-normal.png)
 
 ### Retry Mechanism
 
@@ -387,6 +387,7 @@ Logging helps with debugging, monitoring, and understanding application performa
 ### Application Logs
 
 ![Application Logs](./screenshots/logs.png)
+
 Add a screenshot showing the contents of:
 
 ```text
