@@ -388,7 +388,6 @@ Logging helps with debugging, monitoring, and understanding application performa
 
 ![Application Logs](./screenshots/logs.png)
 
-Add a screenshot showing the contents of:
 
 ```text
 logs/assistant.log
