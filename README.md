@@ -364,31 +364,29 @@ Logging helps with debugging, monitoring, and understanding application performa
 
 ## 14. Screenshots
 
-Screenshots demonstrating the application can be added below.
-
 ### Application Startup
 
-Add a screenshot showing the application startup screen.
-![Application Startup](screenshots/startuppage.PNG)
+![Application Startup](./screenshots/startup.png)
 
 ### Normal Conversation
 
-Add a screenshot showing a normal question and AI response.
+![Normal Conversation](./screenshots/normal-chat.png)
 
 ### Role Selection
 
-Add a screenshot showing the `role` command and available roles.
+![Role Selection](./screenshots/role-selection.png)
 
-### Role-Based Response
+### Role Switch to Normal Assistant
 
-Add a screenshot showing the assistant responding using a selected role.
+![Role Switch](./screenshots/role-normal.png)
 
-### Error Handling
+### Retry Mechanism
 
-Add a screenshot demonstrating error handling without application crashes.
+![Retry Mechanism](./screenshots/retry-mechanism.png)
 
 ### Application Logs
 
+![Application Logs](./screenshots/logs.png)
 Add a screenshot showing the contents of:
 
 ```text
